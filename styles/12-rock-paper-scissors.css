@@ -83,7 +83,6 @@ body {
   object-fit: contain;
   object-position: center;
   display: block;
-  flex-shrink: 0;
   pointer-events: none;
 }
 
