@@ -62,8 +62,8 @@ body {
   min-height: 42px;
   cursor: pointer;
   margin-right: 8px;
-}
-.move-button {
+
+  .move-button {
   width: 120px;
   height: 120px;
   border-radius: 50%;
@@ -85,6 +85,9 @@ body {
   display: block;
   flex-shrink: 0;
 }
+
+}
+
 
 .reset-score-button:hover,
 .auto-play-button:hover {
