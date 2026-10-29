@@ -1,8 +1,8 @@
 ✊ Rock Paper Scissors
 ## 📸 Game Screenshot
 
-![Rock Paper Scissors Game]
-(game-screenshot.png)
+![Rock Paper Scissors Game](game-screenshot.png)
+
 
 
 A simple and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript.
