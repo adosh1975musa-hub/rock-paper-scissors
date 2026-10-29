@@ -1,8 +1,7 @@
 ✊ Rock Paper Scissors
 ## 📸 Game Screenshot
 
-![Rock Paper Scissors Game]
-(Screenshot 2026-10-29 150713.png)
+![Rock Paper Scissors Game](Screenshot 2026-10-29 150713.png)
 
 
 A simple and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript.
